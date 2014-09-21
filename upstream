@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words.
+The upstream remote is the original repo for the project you forked to work on a feature/bug fix. The upstream is used to pull the latest changes from that project so your local and forked repos are in sync with the project.

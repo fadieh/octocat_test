@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch in git allows you to commence work on a new feature/bug fix in parallel to other branches/master branches so that your work will not interfere with the main version of the project.
